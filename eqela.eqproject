@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# GuerreroOct8part2
+#
+
+projectname: GuerreroOct8part2
+vendorid: com.mycompany
+mainmodule: com.mycompany.guerrerooct8part2
